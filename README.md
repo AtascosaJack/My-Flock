@@ -11,3 +11,10 @@ Need to track sex of birds.
 Need to track breed of bird.
 Need location where bought.
 
+Needs to print out totals
+death information if any
+Look at breeds that we don't have
+
+Breeds we want
+
+
